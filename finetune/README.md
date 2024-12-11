@@ -1,9 +1,9 @@
 # Finetune implementation
 
-download weights for llama2-7b from huggingface here:
-https://huggingface.co/meta-llama/Llama-2-7b-hf
-https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
-https://huggingface.co/codellama/CodeLlama-7b-hf
+download weights for llama2-7b from huggingface here: <br>
+https://huggingface.co/meta-llama/Llama-2-7b-hf <br>
+https://huggingface.co/meta-llama/Llama-2-7b-chat-hf <br>
+https://huggingface.co/codellama/CodeLlama-7b-hf <br>
 
 ## Runnnig
 
